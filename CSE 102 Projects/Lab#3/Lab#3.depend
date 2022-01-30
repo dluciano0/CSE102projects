@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1627665927 source:c:\users\dluci\onedrive\desktop\cse projects\lab#3\main.cpp
+	<iostream>
+	<iomanip>
+	"circles.h"
+
+1627664380 c:\users\dluci\onedrive\desktop\cse projects\lab#3\circles.h
+	<iostream>
+	<iomanip>
+

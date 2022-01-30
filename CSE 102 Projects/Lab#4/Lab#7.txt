@@ -1,0 +1,27 @@
+#include <iostream>
+
+using namespace std;
+
+template <class T>
+T total(T vals)
+{
+    return vals;
+}
+
+int main()
+{
+    int intVals, intTotal;
+    double doubleVals, doubleTotal;
+
+    cout << "\nHow many integer values do you wish to total? ";
+    cin >> intVals;
+    intTotal = total(intVals);
+    cout << "The total is " << intTotal << endl;
+
+    cout << "\nHow many double values do you wish to total? ";
+    cin >> doubleVals;
+    doubleTotal = total(doubleVals);
+    cout << "The total is " << doubleTotal << endl;
+
+    return 0;
+}

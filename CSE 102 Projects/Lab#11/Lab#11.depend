@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630008528 source:c:\users\dluci\onedrive\desktop\cse projects\lab#11\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stack>
+	<sstream>
+

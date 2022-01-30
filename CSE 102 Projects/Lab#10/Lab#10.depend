@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1629485714 source:c:\users\dluci\onedrive\desktop\cse projects\lab#10\main.cpp
+	<iostream>
+	<list>
+	<string>
+	"list.h"
+
+1629487334 c:\users\dluci\onedrive\desktop\cse projects\lab#10\list.h
+

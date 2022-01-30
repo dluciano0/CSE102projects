@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1629144966 source:c:\users\dluci\onedrive\desktop\cse projects\lab#8\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+	"product.h"
+
+1629054211 c:\users\dluci\onedrive\desktop\cse projects\lab#8\product.h
+

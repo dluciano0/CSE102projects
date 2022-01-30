@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1627148123 source:c:\users\dluci\onedrive\desktop\cse projects\lab#1\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"drinks.h"
+
+1628783639 c:\users\dluci\onedrive\desktop\cse projects\lab#1\drinks.h
+	<iostream>
+	<string>
+	<iomanip>
+

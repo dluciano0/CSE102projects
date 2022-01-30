@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1628109472 source:c:\users\dluci\onedrive\desktop\cse projects\lab#4\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"sales.h"
+
+1628109472 c:\users\dluci\onedrive\desktop\cse projects\lab#4\sales.h
+	<iostream>
+	<iomanip>
+
